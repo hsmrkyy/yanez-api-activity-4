@@ -23,8 +23,6 @@ Hands-on Activity #4: Securing the API
 - **Successful GET Request**  
   ![Get Request](imageget.png)
 
-- **Successful POST Request (with token)**  
-  ![Post Request](imagepost.png)
 
 
 ---
