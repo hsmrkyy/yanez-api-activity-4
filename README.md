@@ -26,11 +26,6 @@ Hands-on Activity #4: Securing the API
 - **Successful POST Request (with token)**  
   ![Post Request](imagepost.png)
 
-- **Unauthorized Request (no token)**  
-  ![Unauthorized](imageunauth.png)
-
-- **Forbidden Request (wrong role)**  
-  ![Forbidden](imageforbidden.png)
 
 ---
 
